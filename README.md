@@ -1,9 +1,9 @@
 # Reto-01
 Construyendo una casa simple en Unity
 
-###
+##
 Vista frontal
-<img src="![frente_casa](https://github.com/user-attachments/assets/577680e6-21bf-444c-ac36-e2b732d0d93d)" width="400" height="250">
+<img src="https://github.com/user-attachments/assets/577680e6-21bf-444c-ac36-e2b732d0d93d" width="400" height="250">
 
 ###
 Vista desde la derecha
