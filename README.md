@@ -2,7 +2,7 @@
 Construyendo una casa simple en Unity
 
 # Vista frontal
-##
+###
 <img src="https://github.com/user-attachments/assets/577680e6-21bf-444c-ac36-e2b732d0d93d" width="400" height="250">
 
 ###
@@ -12,7 +12,7 @@ Construyendo una casa simple en Unity
 
 ###
 # Vista desde la izquierda
-##
+###
 <img src="https://github.com/user-attachments/assets/9adbde7d-52b7-4ebe-b857-deb9b698aef3" width="400" height="250">
 
 
