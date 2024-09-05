@@ -43,6 +43,9 @@ rotation, y position fue tiempo que logré sentirme un poco más cómodo manejan
 
 ![Screenshot from 2024-09-03 21-58-53](https://github.com/user-attachments/assets/6eaf425d-d6e5-4d9b-ac06-f1258dfd2db0)
 
+# Reflexion
+
+Este proyecto fue sumamente útil para entender cómo manipular valores de objetos para que al unirlos se vean como una figura deseada. Aunque a simple vista parece difícil crear la entrada de una casa con solo 3 cubos, con la manipulación de unos cubos puedes llegar a tener lo que deseas mientras seas creativo con las herramientas que te provee el programa que estás usando, que es esencialmente el núcleo de la programación: resolver problemas de formas creativas y eficientes. También fue útil aprender a crear figuras que están hechas para formar parte de una pieza más grande hechas por otras personas. Trabajar en un equipo que está en comunicación perfecta en todo momento fue otra parte que me gustó y pienso que será útil si fuese a perseguir una carrera en este campo. Pienso que este trabajo es prometedor de las cosas más expansivas y grandes que haremos en el curso.
 
 # Producto final
 
