@@ -51,3 +51,7 @@ Valores de la pared.
 Al final las paredes de la casa estaban completas.
 
 <img width="548" alt="4-4, paredes completas" src="https://github.com/user-attachments/assets/c089e210-055a-4111-87cb-611fa3338ff2">
+
+# Reflexión
+
+Este reto me ayudó a ejercitar mis destrezas de manipulación de objetos en un espaico tridimensional, además de coordinar con mis compañeros de trabajo para completar una tarea juntos.
