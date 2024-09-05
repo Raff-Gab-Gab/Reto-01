@@ -28,7 +28,7 @@ La casa tiene dos paredes.
 
 # Acomodar segunda pared nueva
 
-Ya que hay otra pared que queda paralela a ésta se duplicó el cubo y se cambió la posición manualmente par que quedara en la otra esquina de la pared principal. Luego se ajustó los valores para que quedaran números enteros justos.
+Ya que hay otra pared que queda paralela a ésta se duplicó el cubo y se cambió la posición manualmente para que quedara en la otra esquina de la pared principal. Luego se ajustó los valores para que quedaran números enteros justos.
 
 <img width="226" alt="paso 3_ duplicar pared y ponerla en el lado opuesto, valores de pared 3" src="https://github.com/user-attachments/assets/1d78b2c8-2386-4cf5-9a9f-878d83db961e">
 
